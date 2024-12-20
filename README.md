@@ -88,41 +88,59 @@ tional layers of each model. The CAM techniques were applied to a diverse set
 
   # --FOR RESNET152
   <li>Heat map for first Layer resnet152.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/0a6d9a28-cef4-4d83-8b81-f05049404b6e)
 
   <li>Heat map for middle layer resnet152.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/be6f8272-19ca-4e73-8d88-355f548d440b)
 
   <li>Heat map for Last layer resnet152.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/87ae7213-1694-4a14-936d-c1fce2a37e7e)
 
 
 # --For DENSNET121
 
   <li>Heat map for first Layer Densnet121.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/1e492305-a3d9-4cff-849d-7aa45b29f2f9)
 
 
   <li>Heat map for middle layer Densnet121.</li>
+  
+  
    ![image](https://github.com/user-attachments/assets/c95f3b22-825e-4b00-9e78-802cc55aff5d)
 
 
   <li>Heat map for Last layer Densnet121.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/1332cda1-19c1-4c1f-835b-acef9db13f18)
 
 # --For INCEPTION_V3
 
   <li>Heat map for first Layer inception_v3.</li>
+  
+  
    ![image](https://github.com/user-attachments/assets/a47630c9-9cea-471c-931e-9c01bf0eed78)
 
 
 
   <li>Heat map for middle layer inception_v3.</li>
+  
+  
    ![image](https://github.com/user-attachments/assets/37d8053b-c361-45bb-9428-cedf1d8c7ed4)
 
 
 
   <li>Heat map for Last layer inception_v3.</li>
+  
+  
   ![image](https://github.com/user-attachments/assets/48b91662-4122-4467-a79d-9e5bd954681d)
 
 
@@ -136,18 +154,23 @@ tional layers of each model. The CAM techniques were applied to a diverse set
 
  
 
- #References
+ # References
+ 
  [1] R. R. Selvaraju et al., “Grad-cam: Visual explanations from deep networks
  via gradient-based localization,” IEEE International Conference on Com
 puter Vision (ICCV), pp. 618–626, 2017.
+
  [2] J. Gildenblat and contributors, Pytorch library for cam methods, https:
  //github.com/jacobgil/pytorch-grad-cam, 2021.
+ 
  [3] A. Chattopadhay et al., “Grad-cam++: Generalized gradient-based visual
  explanations for deep convolutional networks,” IEEE Winter Conference
  on Applications of Computer Vision (WACV), pp. 839–847, 2018.
+ 
  [4] A. Muhammad et al., “Eigen-cam: Class activation map using principal
  components,” IEEE Transactions on Neural Networks and Learning Sys
 tems, pp. 1–12, 2020.
+
  [5] R. Fu et al., “Xgrad-cam: Towards accurate and explainable ai,” arXiv
  preprint arXiv:2008.02312, 2020.
 
